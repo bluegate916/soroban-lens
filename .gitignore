@@ -8,8 +8,6 @@ dist/
 apps/web/src/**/*.js
 apps/web/vite.config.js
 
-.env
-.env.local
 data/
 *.db
 *.db-wal
@@ -33,3 +31,4 @@ bench/results/
 crash.log
 *.tfvars
 *.tfvars.json
+config.bat
